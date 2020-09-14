@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class SabiranjeDvaBrojaSaSistemskimUlazom {
+public class AddingTwoNumbersUserInput {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.print("Unesite prvi sabirak: ");

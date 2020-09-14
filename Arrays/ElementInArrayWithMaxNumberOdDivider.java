@@ -20,7 +20,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.IntStream;
 
-public class ElemenatNizaKojiImaNajveciBrojDelilacaJe {
+public class ElementInArrayWithMaxNumberOdDivider {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

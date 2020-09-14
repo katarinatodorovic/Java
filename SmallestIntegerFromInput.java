@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class NajmanjiPozitivanBroj {
+public class SmallestIntegerFromInput {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

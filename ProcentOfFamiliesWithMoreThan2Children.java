@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ProcenatPorodicaSaViseOd2Dece {
+public class ProcentOfFamiliesWithMoreThan2Children {
      /*Zadatak 1:
 -Napisati program koji učitava jedan broj koji predstavlja koliko
  ljudi će nakon toga uneti podatke o broju dece koju imaju.

@@ -2,7 +2,7 @@ package avgustsesti;
 
 import java.util.Scanner;
 
-public class ObimTrougla {
+public class CircumferenceOfATriangle {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);

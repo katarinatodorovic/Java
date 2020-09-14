@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PravoslavniUskrs 
+public class OrthodoxEaster{
     public static void main(String[] args) {
 		
         Scanner t = new Scanner(System.in);

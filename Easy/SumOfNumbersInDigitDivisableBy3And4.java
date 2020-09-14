@@ -7,7 +7,7 @@
 
 import java.util.Scanner;
 
-public class SumaBrojevaDeljivihSa3Ili4 {
+public class SumOfNumbersInDigitDivisableBy3And4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Unesi br : ");

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IzracunavanjeKvadratnogKorena {
+public class SquareRoot {
     public static void main(String[] args) {
         Scanner broj = new Scanner(System.in);
         System.out.println("Unesite Prvu katetu a: ");

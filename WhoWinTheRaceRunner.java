@@ -18,7 +18,7 @@ Nakon toga, ako korisnik unese broj 4 treba ispisati da
 je prvom, drugom, trecem ostalo 5 krugova, a cetvrtom 3 kruga….
 
 */
-public class KoJePrviIstrcaoTrkuTrkac {
+public class WhoWinTheRaceRunner {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println(

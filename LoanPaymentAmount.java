@@ -2,7 +2,7 @@ package iznoskreditazaotplatu;
 
 import java.util.Scanner;
 
-public class IznosKreditaZaOtplatu {
+public class LoanPaymentAmount {
 
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);

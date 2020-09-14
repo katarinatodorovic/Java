@@ -1,6 +1,6 @@
 package proba;
 
-public class DvaDNiz {
+public class TwoDArray {
     public static void main(String[] args) {
         int[][] dvadArej = {
                 {8, 99, 1235, 8, 6, 22, 5},

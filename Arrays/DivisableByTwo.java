@@ -2,7 +2,7 @@ package nizovi;
 
 import java.util.Scanner;
 
-public class ClanoviNizzaDeljiviSa2 {
+public class DivisableByTwo {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Unesite broj elemenataniza:");

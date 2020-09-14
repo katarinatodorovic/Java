@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class RacunanjePovrsinaFigura {
+public class AreaOfShape {
 
     public static Scanner sc = new Scanner(System.in);
 

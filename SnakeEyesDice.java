@@ -1,4 +1,4 @@
-public class ZmijskeOciBacanje2KOckice {
+public class SnakeEyesDice {
     private static final int BROJ_STRANA_KOCKE = 6;
 
     public static void main(String[] args) {

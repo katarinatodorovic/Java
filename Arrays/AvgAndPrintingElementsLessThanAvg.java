@@ -2,7 +2,7 @@ package nizovi;
 
 import java.util.Scanner;
 
-public class AritimetickaSredinaManjihOdAritimetickesredineSvih {
+public class AvgAndPrintingElementsLessThanAvg {
     public static void main(String[] args) {
         /*	Učitati članove niza. Izračunati i ispisati aritmetičku sredinu onih
         clanova niza koji su manji od aritmeticke sredine svih članova niza.*/

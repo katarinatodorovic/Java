@@ -3,7 +3,7 @@ da ih bacas sve dok ne dobijes sve sestice*/
 
 import java.util.Scanner;
 
-public class BacanjeKockeSveDokSeNeDobije6 {
+public class RollingDiceUntil6 {
     private static final int BROJ_STRANA_KOCKE = 6;                                                                     //konstante se definisu van metoda da bi bile dostupne i ako se koriste van glavnog metoda
 
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BacanjeNovcicaIVerovatnocaZaDobijanjePismoGlava {
+public class HeadTailProbability {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Koliko puta zelite da bacite novcic? ");

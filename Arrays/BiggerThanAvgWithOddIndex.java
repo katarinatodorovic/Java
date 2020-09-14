@@ -2,7 +2,7 @@ package nizovi;
 
 import java.util.Scanner;
 
-public class VeciOdAritimetickeSredineSaNeparnimIndeksom {
+public class BiggerThanAvgWithOddIndex  {
     public static void main(String[] args) {
         /*Učitati članove niza. Izračunati aritmetičku sredinu i ispisati
         sumu članova niza većih od aritmetičke sredine sa neparnim indeksom.*/

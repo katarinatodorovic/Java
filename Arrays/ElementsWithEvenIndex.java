@@ -2,7 +2,7 @@ package nizovi;
 
 import java.util.Scanner;
 
-public class ClanoviNizaSaParnimIndeksom {
+public class ElementsWithEvenIndex {
     public static void main(String[] args) {
         /*	Učitati članove niza. Ispisati članove niza sa parnim indeksom.*/
 

@@ -7,7 +7,7 @@ rezultat true ako su jednaki, false ako nisu
 
 import java.util.Scanner;
 
-public class UnosStop {
+public class StopUntilStop {
     public static void main(String[] args) {
 
 

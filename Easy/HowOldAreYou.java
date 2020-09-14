@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Starost {
+public class HowOldAreYou {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Unesite godine rodjenja: ");

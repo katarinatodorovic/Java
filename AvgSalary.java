@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ProsecnaPlata {
+public class AvgSalary {
     public static void main(String[] args) {
         /*Napisati program u programskom jeziku java koji:
 	-  Od korisnika trazi da unosi mesecne plate koje je zaradio u prethodnih 7

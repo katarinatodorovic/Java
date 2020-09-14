@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PogodiZamisljenuRec {
+public class GuessSicretWord {
     public static void main(String[] args) {
  /*Napisati program u programskom jeziku Java koji ispunjava sledece funkcionalnosti:
 Sacuva jednu rec proizvoljno odabranu u jednoj promeljivoj.

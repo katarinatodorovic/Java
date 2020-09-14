@@ -2,7 +2,7 @@ package nizovi;
 
 import java.util.Scanner;
 
-public class VeciOdSledeceg {
+public class BiggerThanNextElement {
     public static void main(String[] args) {
         /*	Učitati članove niza. Ispisati: članove niza koji su veći od slijedećeg člana.*/
 
