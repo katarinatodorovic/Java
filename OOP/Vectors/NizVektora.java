@@ -43,7 +43,7 @@ public class NizVektora {
         }
 
         System.out.println("Suma svih vektora je: " + sumaSvihVektoraNiza2);
-        /*Ovo je bez funkcije kako bi islo uredjivanje niza dole je sa funkcijom*/
+        
         for (int i = 0; i < niz2.length - 1; i++) {
             for (int j = 0; j < niz2.length - 1; j++) {
                 if (niz2[i].intezitet() > niz2[i + 1].intezitet()) {
@@ -54,19 +54,18 @@ public class NizVektora {
                     niz[j] = new Vektor();
                     niz[j + 1] = privremeni;
 
-                    ovo je drugi nacin onoga gore
+                    ovo je drugi nacin zapisa gore
                     ali posto sam napravila funkciju nema potrebe da komplikujem
                     samo pozovem funkciju*/
 
                 }
             }
         }
-        /*ovo odstampa ono iznad sto je uredilo bez funkcije*/
+        
         for (int i = 0; i < niz2.length; i++) {
             System.out.println(niz2[i] + " , intezitet " + niz2[i].intezitet());
         }
         Vektor.sort(niz2, Vektor.POREDAK.OPADAJUCI);
-        /*ovo odstampa ono iznad sto je uredilo SA funkcijom */
         for (int i = 0; i < niz2.length; i++) {
             System.out.println(niz2[i] + " , intezitet " + niz2[i].intezitet());
         }
